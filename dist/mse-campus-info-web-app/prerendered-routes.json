@@ -1,0 +1,7 @@
+{
+  "routes": {
+    "/MSE-CampusInfo-WebApp": {},
+    "/MSE-CampusInfo-WebApp/location": {},
+    "/MSE-CampusInfo-WebApp/schedule": {}
+  }
+}
